@@ -33,7 +33,7 @@ This repository contains my solutions to LeetCode problems, organized and tracke
 | Language   | Problems Solved |
 |:----------:|:---------------:|
 | C++        | 426             |
-| Python3    | 161             |
+| Python3    | 162             |
 | MySQL      | 20              |
 | PostgreSQL | 3               |
 | Java       | 2               |
