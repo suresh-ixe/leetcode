@@ -22,9 +22,9 @@ This repository contains my solutions to LeetCode problems, organized and tracke
 | Difficulty | Solved | Total | Progress |
 |:----------:|:------:|:-----:|:--------:|
 | **Easy**   | 167    | 935  | 17.86%   |
-| **Medium**   | 326    | 2036  | 16.01%   |
+| **Medium**   | 326    | 2037  | 16.00%   |
 | **Hard**   | 65    | 921  | 7.06%   |
-| **Total**  | **558**| 3892  | **14.34%** |
+| **Total**  | **558**| 3893  | **14.33%** |
 <!-- LEETCODE_STATS_END -->
 
 ## Languages Used
