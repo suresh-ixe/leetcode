@@ -21,10 +21,10 @@ This repository contains my solutions to LeetCode problems, organized and tracke
 <!-- LEETCODE_STATS_START -->
 | Difficulty | Solved | Total | Progress |
 |:----------:|:------:|:-----:|:--------:|
-| **Easy**   | 167    | 974  | 17.15%   |
-| **Medium**   | 326    | 2136  | 15.26%   |
-| **Hard**   | 65    | 986  | 6.59%   |
-| **Total**  | **558**| 4096  | **13.62%** |
+| **Easy**   | 167    | 975  | 17.13%   |
+| **Medium**   | 326    | 2138  | 15.25%   |
+| **Hard**   | 65    | 987  | 6.59%   |
+| **Total**  | **558**| 4100  | **13.61%** |
 <!-- LEETCODE_STATS_END -->
 
 ## Languages Used
